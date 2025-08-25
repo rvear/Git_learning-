@@ -3,3 +3,4 @@ print(number1,type(number1))
 print("howdy")
 age=43
 print(type(str(age)))
+print("hello this is a string example")
