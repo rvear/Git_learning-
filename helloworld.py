@@ -4,3 +4,5 @@ print("howdy")
 age=43
 print(type(str(age)))
 print("hello this is a string example")
+print("this is a new line ")
+print("another line")
